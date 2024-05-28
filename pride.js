@@ -2,12 +2,6 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	// Bi Pride
 	dice3d.addSystem({id: "bi-pride", name: "Bi Pride"}, false);
 	dice3d.addDicePreset({
-		type: "d2",
-		labels: "",
-		modelFile: "modules/pride-dice/wcube_d2.glb",
-		system: "bi-pride"
-	});
-	dice3d.addDicePreset({
 		type: "d4",
 		labels: "",
 		modelFile: "modules/pride-dice/wcube_d4.glb",
@@ -51,12 +45,6 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	});
 	// Trans dice
 	dice3d.addSystem({id: "trans-pride", name: "Trans Pride"}, false);
-	dice3d.addDicePreset({
-		type: "d2",
-		labels: "",
-		modelFile: "modules/pride-dice/wcube_d2.glb",
-		system: "trans-pride"
-	});
 	dice3d.addDicePreset({
 		type: "d4",
 		labels: "",
