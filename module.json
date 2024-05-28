@@ -1,8 +1,8 @@
 {
-"id": "wcube",
-	"name": "wcube",
-	"title": "Dice So Nice - Weighted Companion Cube Dice Set",
-	"description": "Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube to Dice-So-Nice ",
+"id": "pride-dice",
+	"name": "pride-dice",
+	"title": "Dice So Nice - Pride Dice",
+	"description": "Adds a set of 3D dice to show off your pride",
 	"version": "1.0.5",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "11",
@@ -10,10 +10,10 @@
 		"minimum": "0.7.2",
 		"verified": "11"
 	},
-	"author": "EndlesNights",
+	"author": "Leo Vaporwing",
 	"authors": [
 		{
-			"name": "EndlesNights"
+			"name": "Leo Vaporwing"
 		}
 	],
 	"dependencies": [
@@ -31,9 +31,9 @@
 		]
 	},
 	"scripts": [
-		"wcube.js"
+		"pride.js"
 	],
-	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
-	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
-	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/archive/1.0.5.zip"
+	"url": "https://github.com/leo-vaporwing/PrideDice",
+	"manifest": "https://raw.githubusercontent.com/leo-vaporwing/PrideDice/main/module.json",
+	"download": "https://github.com/leo-vaporwing/PrideDice/archive/0.0.1.zip"
 }
