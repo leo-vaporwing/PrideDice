@@ -3,7 +3,7 @@
 	"name": "pride-dice",
 	"title": "Dice So Nice - Pride Dice",
 	"description": "Adds a set of 3D dice to show off your pride",
-	"version": "1.0.5",
+	"version": "0.0.2",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "11",
 	"compatibility": {
@@ -35,5 +35,5 @@
 	],
 	"url": "https://github.com/leo-vaporwing/PrideDice",
 	"manifest": "https://raw.githubusercontent.com/leo-vaporwing/PrideDice/main/module.json",
-	"download": "https://github.com/leo-vaporwing/PrideDice/archive/0.0.1.zip"
+	"download": "https://github.com/leo-vaporwing/PrideDice/archive/0.0.2.zip"
 }
