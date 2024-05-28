@@ -4,13 +4,13 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addDicePreset({
 		type: "d4",
 		labels: "",
-		modelFile: "modules/pride-dice/wcube_d4.glb",
+		modelFile: "modules/pride-dice/bi-pride/bi_d4.glb",
 		system: "bi-pride"
 	});
 	dice3d.addDicePreset({
 		type: "d6",
 		labels: "",
-		modelFile: "modules/pride-dice/wcube_d6.glb",
+		modelFile: "modules/pride-dice/bi-pride/bi_d6.glb",
 		system: "bi-pride"
 	});
 	dice3d.addDicePreset({
@@ -48,13 +48,13 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addDicePreset({
 		type: "d4",
 		labels: "",
-		modelFile: "modules/pride-dice/wcube_d4.glb",
+		modelFile: "modules/pride-dice/trans-pride/trans_d4.glb",
 		system: "trans-pride"
 	});
 	dice3d.addDicePreset({
 		type: "d6",
 		labels: "",
-		modelFile: "modules/pride-dice/wcube_d6.glb",
+		modelFile: "modules/pride-dice/trans-pride/trans_d6.glb",
 		system: "trans-pride"
 	});
 	dice3d.addDicePreset({
